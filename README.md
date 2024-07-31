@@ -1,6 +1,8 @@
+# My FoodSales-Site Project
+
 A React and Django-based application that allows users to browse and view a collection of food . The project includes a Django backend to serve recipe data and a React frontend to display the recipes.
 
-##Features
+## Features
 
 **View foods**: Display a list of featured food.
 
