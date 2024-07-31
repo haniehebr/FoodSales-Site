@@ -10,7 +10,7 @@ A React and Django-based application that allows users to browse and view a coll
 
 **Backend Integration**: Fetch recipe data from a Django backend.
 
-##Technologies
+## Technologies
 
 **Frontend**: React
 
