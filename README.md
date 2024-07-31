@@ -5,12 +5,19 @@ Features
 Technologies
 
 Features
+
 View foods: Display a list of featured food.
+
 Responsive Design: Ensure the website looks good on various devices.
+
 Backend Integration: Fetch recipe data from a Django backend.
 
 Technologies
+
 Frontend: React
+
 Backend: Django
+
 Database: SQLite (default with Django)
+
 Styling: CSS
